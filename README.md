@@ -1,19 +1,17 @@
 # Project Title
 
-Brief description of the project.
+Description of the project.
 
-## Getting Started
+## Animations
+- [Keep all animations here.]
 
-Instructions on how to get a copy of the project running on your local machine.
+## Badges
+- Profile views badge has been removed.
 
-## Usage
+## Snake Game
+- Fixed issues in the snake game code to ensure proper functionality.
 
-Examples of how to use the project.
+## GitHub Stats
+- GitHub stats have been adjusted to display properly with good symmetry.
 
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-Information about the project's license.
+Updated: 2026-03-29 12:59:23 UTC
