@@ -174,7 +174,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00" />
@@ -184,7 +184,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ### 🤖 ML & Deep Learning
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF00" />
@@ -194,7 +194,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ### ⚙️ Infrastructure & MLOps
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=00FF00" />
@@ -204,7 +204,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ### 🛢️ Databases & Retrieval
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=00FF00" />
@@ -213,7 +213,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ### 🤖 LLM Agents & Frameworks
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF00" />
@@ -226,11 +226,11 @@ A production-grade feature store where **features are programs**, not just colum
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shuvakant6623&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=CCFFCC&hide_border=false&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvakant6623&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=CCFFCC" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvakant6623&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=CCFFCC" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shuvakant6623&theme=chartreuse-dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=CCFFCC&currStreakLabel=00FF00&sideLabels=CCFFCC&dates=888888" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=shuvakant6623&theme=chartreuse-dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=CCFFCC&currStreakLabel=00FF00&sideLabels=CCFFCC&dates=888888" width="80%" />
 </p>
 
 ---
@@ -238,7 +238,7 @@ A production-grade feature store where **features are programs**, not just colum
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvakant6623&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=003300&border_color=00FF00&title_color=00FF00" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvakant6623&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=003300&border_color=00FF00&title_color=00FF00" width="100%" />
 </p>
 
 ---
@@ -246,7 +246,7 @@ A production-grade feature store where **features are programs**, not just colum
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shuvakant6623/shuvakant6623/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shuvakant6623/shuvakant6623/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
@@ -344,6 +344,3 @@ at Scale
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00FF00&center=true&vCenter=true&width=700&lines=Think+in+Systems+%E2%9A%99%EF%B8%8F+%7C+Build+in+Rust+%F0%9F%A6%80+%7C+Scale+with+Data+%F0%9F%93%8A;The+best+ML+system+is+one+that+never+breaks+in+production." alt="Footer SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shuvakant6623&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
