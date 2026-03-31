@@ -54,9 +54,9 @@ Production-grade, always.
 
 ## 🔭 Primary Project — Currently Building
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td>
+<td align="center">
 
 ### 🏗️ Compiler-Driven Feature Store
 
@@ -225,8 +225,8 @@ A production-grade feature store where **features are programs**, not just colum
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvakant6623&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=CCFFCC&hide_border=false&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvakant6623&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=CCFFCC" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvakant6623&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=CCFFCC&hide_border=false&rank_icon=github&cache_seconds=0" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvakant6623&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=CCFFCC&hide_border=false&cache_seconds=0" alt="Top languages" width="48%" />
 </p>
 
 <p align="center">
@@ -343,4 +343,3 @@ at Scale
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00FF00&center=true&vCenter=true&width=700&lines=Think+in+Systems+%E2%9A%99%EF%B8%8F+%7C+Build+in+Rust+%F0%9F%A6%80+%7C+Scale+with+Data+%F0%9F%93%8A;The+best+ML+system+is+one+that+never+breaks+in+production." alt="Footer SVG" />
 </p>
-
