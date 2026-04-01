@@ -164,7 +164,7 @@ A production-grade feature store where **features are programs**, not just colum
 
 ---
 
-## 🧬 Core Stack (Techy Neon)
+## 🧬 Core Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,cpp,postgres,redis,docker,kubernetes,fastapi,nginx,aws,gcp,linux,bash,git,githubactions&theme=dark" />
@@ -203,8 +203,6 @@ A production-grade feature store where **features are programs**, not just colum
 </p>
 
 ---
-
-## 🎞️ Motion & Animations
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
