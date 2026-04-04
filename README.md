@@ -2,13 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16FF00&height=150&section=header&text=Shuvakant%20Patra&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=0A0A0A" alt="Header" />
 </h1>
 
-<br/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=600&color=16FF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=Data+Scientist+%2B+Infrastructure+Engineer;Rust+Systems+Builder+%F0%9F%A6%80;Compiler-first+ML+Infra;Production+%E2%9A%99%EF%B8%8F+always-on" alt="Typing intro" />
 </p>
 
-
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Prod%20ML%20Infra-16FF00?style=for-the-badge&labelColor=0A0A0A" />
